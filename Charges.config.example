@@ -1,0 +1,4 @@
+[DEFAULT]
+ip = <ip address of Wallbox>
+username = <username>
+password = <password>
